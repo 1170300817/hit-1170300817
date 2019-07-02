@@ -2,8 +2,6 @@
 This is 1170300817 from hit. If you want to contribute to this project, i'm very happy with that. Basically you can do what you want with this project LOL.
 
 ### How to make a clean pull request
-Look for a project's contribution instructions. If there are any, follow them.
-
 - Create a personal fork of the project on Github.
 - Clone the fork on your local machine. Your remote repo on Github is called `origin`.
 - Add the original repository as a remote called `upstream`.
