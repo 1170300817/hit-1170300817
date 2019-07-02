@@ -12,7 +12,7 @@ This is 1170300817 from hit. If you want to contribute to this project, i'm very
 - If the project has tests run them!
 - Write or adapt tests as needed.
 - Add or change the documentation as needed.
-- Squash your commits into a single commit with git's [interactive rebase](https://help.github.com/articles/interactive-rebase). Create a new branch if necessary.
+- Squash your commits into a single commit with git's interactive rebase. Create a new branch if necessary.
 - Push your branch to your fork on Github, the remote `origin`.
 - From your fork open a pull request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
 - …
